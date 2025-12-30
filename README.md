@@ -147,3 +147,4 @@ Visit **http://localhost:5173** to access LearnToCode!
    and not just `export { Compiler };` or missing entirely.
 
 ---
+minor update
