@@ -1,0 +1,11 @@
+IDK MAGNITUDE IMPROVEMENTS
+
+- adding time and space complexity constraints.
+- max of three example and there should be no example who has not all three (input, op, explanation)
+
+
+MINOR IMPROVEMENTS
+
+- allow for user defined topic if he is not able to find his own one in current options.
+
+MAJOR IMPROVEMENTS

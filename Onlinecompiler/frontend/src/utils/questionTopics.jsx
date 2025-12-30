@@ -1,0 +1,23 @@
+// List of all available question topics (max 3 can be selected)
+export const QUESTION_TOPICS = [
+    "array",
+    "string",
+    "linked list",
+    "stack",
+    "queue",
+    "tree",
+    "graph",
+    "heap",
+    "trie",
+    "dynamic programming",
+    "greedy",
+    "recursion",
+    "backtracking",
+    "binary search",
+    "sliding window",
+    "two pointers",
+    "bit manipulation",
+    "math",
+    "hashing",
+    "sorting",
+];

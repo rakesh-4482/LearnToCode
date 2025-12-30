@@ -1,0 +1,59 @@
+this is my file structure if it is required : 
+Current Directory Structure:
+
+📄 .DS_Store
+📄 .gitignore
+📄 README.md
+📁 backend
+  📄 .DS_Store
+  📄 config.js
+  📄 index.js
+  📁 models
+    📄 questionModel.js
+  📄 package-lock.json
+  📄 package.json
+  📁 routes
+    📄 questionsRoute.js
+📄 fileStructure.js
+📄 fileStructure.txt
+📁 frontend
+  📄 .DS_Store
+  📄 .eslintrc.cjs
+  📄 .gitignore
+  📄 con
+  📄 config.js
+  📄 index.html
+  📄 package-lock.json
+  📄 package.json
+  📄 postcss.config.js
+  📁 public
+    📄 vite.svg
+  📁 src
+    📄 App.jsx
+    📁 assets
+      📄 black-bro-code.svg
+      📄 react.svg
+      📄 white-bro-code.svg
+    📁 components
+      📄 Layout.jsx
+      📄 Navbar.jsx
+      📄 Spinner.jsx
+      📁 home
+        📄 QuestionModal.jsx
+        📄 QuestionSingleCard.jsx
+        📄 QuestionsCard.jsx
+        📄 QuestionsTable.jsx
+    📄 index.css
+    📄 main.jsx
+    📁 pages
+      📄 CreateQuestions.jsx
+      📄 DeleteQuestion.jsx
+      📄 EditQuestion.jsx
+      📄 Home.jsx
+      📄 ShowQuestion.jsx
+    📁 utils
+      📄 getDifficultyClasses.jsx
+      📄 questionTopics.jsx
+  📄 tailwind.config.js
+  📄 vite.config.js
+📄 potential_improvements.txt
