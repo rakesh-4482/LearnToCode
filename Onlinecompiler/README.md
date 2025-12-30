@@ -1,14 +1,14 @@
-# ByteSmith : Intelligent Coding Learning Platform
+# LearnToCode : Intelligent Coding Learning Platform
 
 > **This is still under development.**
 
 ---
 
-## What is ByteSmith?
+## What is LearnToCode?
 
-**ByteSmith** is a revolutionary coding learning platform built to empower teachers and inspire students in their programming journey. It's not just a learning platform – it's an **intelligent, interactive, and adaptive environment** designed for the future of coding education.
+**LearnToCode** is a revolutionary coding learning platform built to empower teachers and inspire students in their programming journey. It's not just a learning platform – it's an **intelligent, interactive, and adaptive environment** designed for the future of coding education.
 
-ByteSmith transforms the traditional learning model with **AI-driven features** and **real-time coding tools**.
+LearnToCode transforms the traditional learning model with **AI-driven features** and **real-time coding tools**.
 
 ---
 
@@ -64,7 +64,7 @@ We are building the **future of coding education** – one where **AI and human 
 - **Database:** MongoDB
 - **AI Engine:** Groq API
 - **Cloud Deployment:** AWS
-- **Design:** TailwindCSS with custom ByteSmith theme
+- **Design:** TailwindCSS with custom LearnToCode theme
 
 ---
 
@@ -102,7 +102,7 @@ For detailed setup instructions with conda environment, see [CONDA_SETUP.md](./C
 ./setup_env.sh start
 ```
 
-Visit **http://localhost:5173** to access ByteSmith!
+Visit **http://localhost:5173** to access LearnToCode!
 
 ---
 
