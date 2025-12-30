@@ -1,6 +1,6 @@
-# AI Features in ByteSmith
+# AI Features in LearnToCode
 
-This document provides an overview of the AI-powered features in ByteSmith and how to set them up.
+This document provides an overview of the AI-powered features in LearnToCode and how to set them up.
 
 ## Features
 

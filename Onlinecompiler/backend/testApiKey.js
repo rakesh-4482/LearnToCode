@@ -30,7 +30,7 @@ async function testApiKey() {
         model: 'llama3-8b-8192',
         messages: [{
           role: 'user',
-          content: 'Say "Hello, ByteSmith!" in a friendly way.'
+          content: 'Say "Hello, LearnToCode!" in a friendly way.'
         }],
         max_tokens: 100,
         temperature: 0.7,

@@ -6,7 +6,7 @@ const problems = [
     // EASY PROBLEMS (1-20)
     {
         title: "Two Sum",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -42,7 +42,7 @@ You can return the answer in any order.`,
     },
     {
         title: "Palindrome Number",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given an integer x, return true if x is a palindrome, and false otherwise.
 
 An integer is a palindrome when it reads the same backward as forward.`,
@@ -73,7 +73,7 @@ An integer is a palindrome when it reads the same backward as forward.`,
     },
     {
         title: "Valid Parentheses",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
 An input string is valid if:
@@ -113,7 +113,7 @@ An input string is valid if:
     },
     {
         title: "Maximum Subarray",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given an integer array nums, find the subarray with the largest sum, and return its sum.
 
 A subarray is a contiguous non-empty sequence of elements within an array.`,
@@ -145,7 +145,7 @@ A subarray is a contiguous non-empty sequence of elements within an array.`,
     },
     {
         title: "Merge Two Sorted Lists",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `You are given the heads of two sorted linked lists list1 and list2.
 
 Merge the two lists into one sorted list. The list should be made by splicing together the nodes of the first two lists.
@@ -181,7 +181,7 @@ For this problem, represent the linked list as an array of integers.`,
 const additionalProblems = [
     {
         title: "Binary Search",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1.
 
 You must write an algorithm with O(log n) runtime complexity.`,
@@ -208,7 +208,7 @@ You must write an algorithm with O(log n) runtime complexity.`,
     },
     {
         title: "Reverse Integer",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-2^31, 2^31 - 1], then return 0.
 
 Assume the environment does not allow you to store 64-bit integers (signed or unsigned).`,
@@ -238,7 +238,7 @@ Assume the environment does not allow you to store 64-bit integers (signed or un
     },
     {
         title: "Longest Common Prefix",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Write a function to find the longest common prefix string amongst an array of strings.
 
 If there is no common prefix, return an empty string "".`,
@@ -265,7 +265,7 @@ If there is no common prefix, return an empty string "".`,
     // BATCH 1: Next 10 Problems (Mixed Difficulty)
     {
         title: "Remove Duplicates from Sorted Array",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same.`,
         topics: ["Array", "Two Pointers"],
         difficulty: "easy",
@@ -289,7 +289,7 @@ If there is no common prefix, return an empty string "".`,
     },
     {
         title: "Search Insert Position",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.`,
         topics: ["Array", "Binary Search"],
         difficulty: "easy",
@@ -314,7 +314,7 @@ If there is no common prefix, return an empty string "".`,
     },
     {
         title: "Length of Last Word",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given a string s consisting of words and spaces, return the length of the last word in the string. A word is a maximal substring consisting of non-space characters only.`,
         topics: ["String"],
         difficulty: "easy",
@@ -339,7 +339,7 @@ If there is no common prefix, return an empty string "".`,
     },
     {
         title: "Plus One",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `You are given a large integer represented as an integer array digits, where each digits[i] is the ith digit of the integer. The digits are ordered from most significant to least significant in left-to-right order. Increment the large integer by one and return the resulting array of digits.`,
         topics: ["Array", "Math"],
         difficulty: "easy",
@@ -364,7 +364,7 @@ If there is no common prefix, return an empty string "".`,
     },
     {
         title: "Sqrt(x)",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given a non-negative integer x, return the square root of x rounded down to the nearest integer. The returned integer should be non-negative as well.`,
         topics: ["Math", "Binary Search"],
         difficulty: "easy",
@@ -393,7 +393,7 @@ If there is no common prefix, return an empty string "".`,
     },
     {
         title: "Best Time to Buy and Sell Stock",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `You are given an array prices where prices[i] is the price of a given stock on the ith day. You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock. Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.`,
         topics: ["Array", "Dynamic Programming"],
         difficulty: "easy",
@@ -416,7 +416,7 @@ If there is no common prefix, return an empty string "".`,
     },
     {
         title: "Valid Palindrome",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers. Given a string s, return true if it is a palindrome, or false otherwise.`,
         topics: ["Two Pointers", "String"],
         difficulty: "easy",
@@ -439,7 +439,7 @@ If there is no common prefix, return an empty string "".`,
     },
     {
         title: "Single Number",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given a non-empty array of integers nums, every element appears twice except for one. Find that single one. You must implement a solution with a linear runtime complexity and use only constant extra space.`,
         topics: ["Array", "Bit Manipulation"],
         difficulty: "easy",
@@ -464,7 +464,7 @@ If there is no common prefix, return an empty string "".`,
     },
     {
         title: "Linked List Cycle",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given head, the head of a linked list, determine if the linked list has a cycle in it. There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the next pointer.`,
         topics: ["Hash Table", "Linked List"],
         difficulty: "easy",
@@ -489,7 +489,7 @@ If there is no common prefix, return an empty string "".`,
     },
     {
         title: "Add Two Numbers",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list. You may assume the two numbers do not contain any leading zero, except the number 0 itself.`,
         topics: ["Linked List", "Math"],
         difficulty: "medium",
@@ -518,7 +518,7 @@ If there is no common prefix, return an empty string "".`,
 const batch2Problems = [
     {
         title: "Longest Substring Without Repeating Characters",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given a string s, find the length of the longest substring without repeating characters.`,
         topics: ["Hash Table", "String"],
         difficulty: "medium",
@@ -543,7 +543,7 @@ const batch2Problems = [
     },
     {
         title: "Container With Most Water",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]). Find two lines that together with the x-axis form a container that contains the most water.`,
         topics: ["Array", "Two Pointers"],
         difficulty: "medium",
@@ -567,7 +567,7 @@ const batch2Problems = [
     },
     {
         title: "3Sum",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0. Notice that the solution set must not contain duplicate triplets.`,
         topics: ["Array", "Two Pointers"],
         difficulty: "medium",
@@ -591,7 +591,7 @@ const batch2Problems = [
     },
     {
         title: "Letter Combinations of a Phone Number",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent. Return the answer in any order.`,
         topics: ["Hash Table", "String"],
         difficulty: "medium",
@@ -615,7 +615,7 @@ const batch2Problems = [
     },
     {
         title: "Generate Parentheses",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.`,
         topics: ["String", "Dynamic Programming"],
         difficulty: "medium",
@@ -637,7 +637,7 @@ const batch2Problems = [
     },
     {
         title: "Valid Sudoku",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules: Each row must contain the digits 1-9 without repetition, each column must contain the digits 1-9 without repetition, each of the nine 3 x 3 sub-boxes must contain the digits 1-9 without repetition.`,
         topics: ["Array", "Hash Table"],
         difficulty: "medium",
@@ -661,7 +661,7 @@ const batch2Problems = [
     },
     {
         title: "Combination Sum",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given an array of distinct integers candidates and a target integer target, return a list of all unique combinations of candidates where the chosen numbers sum to target. You may return the combinations in any order. The same number may be chosen from candidates an unlimited number of times.`,
         topics: ["Array", "Backtracking"],
         difficulty: "medium",
@@ -686,7 +686,7 @@ const batch2Problems = [
     },
     {
         title: "Permutations",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order.`,
         topics: ["Array", "Backtracking"],
         difficulty: "medium",
@@ -711,7 +711,7 @@ const batch2Problems = [
     },
     {
         title: "Group Anagrams",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given an array of strings strs, group the anagrams together. You can return the answer in any order. An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.`,
         topics: ["Array", "Hash Table"],
         difficulty: "medium",
@@ -735,7 +735,7 @@ const batch2Problems = [
     },
     {
         title: "Maximum Depth of Binary Tree",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given the root of a binary tree, return its maximum depth. A binary tree's maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.`,
         topics: ["Tree", "Binary Tree"],
         difficulty: "easy",
@@ -763,7 +763,7 @@ const batch2Problems = [
 const batch3Problems = [
     {
         title: "Median of Two Sorted Arrays",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).`,
         topics: ["Array", "Binary Search"],
         difficulty: "hard",
@@ -790,7 +790,7 @@ const batch3Problems = [
     },
     {
         title: "Regular Expression Matching",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given an input string s and a pattern p, implement regular expression matching with support for '.' and '*' where: '.' Matches any single character. '*' Matches zero or more of the preceding element. The matching should cover the entire input string (not partial).`,
         topics: ["String", "Dynamic Programming"],
         difficulty: "hard",
@@ -816,7 +816,7 @@ const batch3Problems = [
     },
     {
         title: "Trapping Rain Water",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.`,
         topics: ["Array", "Two Pointers"],
         difficulty: "hard",
@@ -840,7 +840,7 @@ const batch3Problems = [
     },
     {
         title: "N-Queens",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `The n-queens puzzle is the problem of placing n queens on an n×n chessboard such that no two queens attack each other. Given an integer n, return all distinct solutions to the n-queens puzzle. You may return the answer in any order.`,
         topics: ["Array", "Backtracking"],
         difficulty: "hard",
@@ -862,7 +862,7 @@ const batch3Problems = [
     },
     {
         title: "Word Ladder",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `A transformation sequence from word beginWord to word endWord using a dictionary wordList is a sequence of words beginWord -> s1 -> s2 -> ... -> sk such that: Every adjacent pair of words differs by a single letter. Return the length of the shortest transformation sequence from beginWord to endWord, or 0 if no such sequence exists.`,
         topics: ["Hash Table", "String", "BFS"],
         difficulty: "hard",
@@ -888,7 +888,7 @@ const batch3Problems = [
     },
     {
         title: "Merge k Sorted Lists",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `You are given an array of k linked-lists lists, each linked-list is sorted in ascending order. Merge all the linked-lists into one sorted linked-list and return it.`,
         topics: ["Linked List", "Divide and Conquer"],
         difficulty: "hard",
@@ -914,7 +914,7 @@ const batch3Problems = [
     },
     {
         title: "Longest Valid Parentheses",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given a string containing just the characters '(' and ')', return the length of the longest valid (well-formed) parentheses substring.`,
         topics: ["String", "Dynamic Programming"],
         difficulty: "hard",
@@ -938,7 +938,7 @@ const batch3Problems = [
     },
     {
         title: "Edit Distance",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given two strings word1 and word2, return the minimum number of operations required to convert word1 to word2. You have the following three operations permitted on a word: Insert a character, Delete a character, Replace a character.`,
         topics: ["String", "Dynamic Programming"],
         difficulty: "hard",
@@ -961,7 +961,7 @@ const batch3Problems = [
     },
     {
         title: "Climbing Stairs",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `You are climbing a staircase. It takes n steps to reach the top. Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?`,
         topics: ["Math", "Dynamic Programming"],
         difficulty: "easy",
@@ -983,7 +983,7 @@ const batch3Problems = [
     },
     {
         title: "Unique Paths",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `There is a robot on an m x n grid. The robot is initially located at the top-left corner (i.e., grid[0][0]). The robot tries to move to the bottom-right corner (i.e., grid[m - 1][n - 1]). The robot can only move either down or right at any point in time. Given the two integers m and n, return the number of possible unique paths that the robot can take to reach the bottom-right corner.`,
         topics: ["Math", "Dynamic Programming"],
         difficulty: "medium",
@@ -1005,7 +1005,7 @@ const batch3Problems = [
     },
     {
         title: "Minimum Path Sum",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given a m x n grid filled with non-negative numbers, find a path from top left to bottom right, which minimizes the sum of all numbers along its path. Note: You can only move either down or right at any point in time.`,
         topics: ["Array", "Dynamic Programming"],
         difficulty: "medium",
@@ -1030,7 +1030,7 @@ const batch3Problems = [
     },
     {
         title: "Decode Ways",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `A message containing letters from A-Z can be encoded into numbers using the following mapping: 'A' -> "1", 'B' -> "2", ..., 'Z' -> "26". To decode an encoded message, all the digits must be grouped then mapped back into letters using the reverse of the mapping above. Given a string s containing only digits, return the number of ways to decode it.`,
         topics: ["String", "Dynamic Programming"],
         difficulty: "medium",
@@ -1054,7 +1054,7 @@ const batch3Problems = [
     },
     {
         title: "Binary Tree Inorder Traversal",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given the root of a binary tree, return the inorder traversal of its nodes' values.`,
         topics: ["Stack", "Tree", "Binary Tree"],
         difficulty: "easy",
@@ -1078,7 +1078,7 @@ const batch3Problems = [
     },
     {
         title: "Validate Binary Search Tree",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given the root of a binary tree, determine if it is a valid binary search tree (BST). A valid BST is defined as follows: The left subtree of a node contains only nodes with keys less than the node's key. The right subtree of a node contains only nodes with keys greater than the node's key. Both the left and right subtrees must also be binary search trees.`,
         topics: ["Tree", "Binary Search Tree"],
         difficulty: "medium",
@@ -1101,7 +1101,7 @@ const batch3Problems = [
     },
     {
         title: "Symmetric Tree",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given the root of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).`,
         topics: ["Tree", "Binary Tree"],
         difficulty: "easy",
@@ -1124,7 +1124,7 @@ const batch3Problems = [
     },
     {
         title: "Binary Tree Level Order Traversal",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given the root of a binary tree, return the level order traversal of its nodes' values. (i.e., from left to right, level by level).`,
         topics: ["Tree", "Binary Tree", "BFS"],
         difficulty: "medium",
@@ -1147,7 +1147,7 @@ const batch3Problems = [
     },
     {
         title: "Convert Sorted Array to Binary Search Tree",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given an integer array nums where the elements are sorted in ascending order, convert it to a height-balanced binary search tree.`,
         topics: ["Array", "Divide and Conquer", "Tree"],
         difficulty: "easy",
@@ -1171,7 +1171,7 @@ const batch3Problems = [
     },
     {
         title: "Path Sum",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given the root of a binary tree and an integer targetSum, return true if the tree has a root-to-leaf path such that adding up all the values along the path equals targetSum.`,
         topics: ["Tree", "Binary Tree"],
         difficulty: "easy",
@@ -1195,7 +1195,7 @@ const batch3Problems = [
     },
     {
         title: "Flatten Binary Tree to Linked List",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given the root of a binary tree, flatten the tree into a "linked list": The "linked list" should use the same TreeNode class where the right child pointer points to the next node in the list and the left child pointer is always null. The "linked list" should be in the same order as a pre-order traversal of the binary tree.`,
         topics: ["Linked List", "Stack", "Tree"],
         difficulty: "medium",
@@ -1218,7 +1218,7 @@ const batch3Problems = [
     },
     {
         title: "Best Time to Buy and Sell Stock II",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `You are given an array prices where prices[i] is the price of a given stock on the ith day. On each day, you may decide to buy and/or sell the stock. You can only hold at most one share of the stock at any time. However, you can buy it then immediately sell it on the same day. Find and return the maximum profit you can achieve.`,
         topics: ["Array", "Dynamic Programming"],
         difficulty: "medium",
@@ -1242,7 +1242,7 @@ const batch3Problems = [
     },
     {
         title: "Pascal's Triangle",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given an integer numRows, return the first numRows of Pascal's triangle. In Pascal's triangle, each number is the sum of the two numbers directly above it.`,
         topics: ["Array", "Dynamic Programming"],
         difficulty: "easy",
@@ -1264,7 +1264,7 @@ const batch3Problems = [
     },
     {
         title: "Triangle",
-        author: "ByteSmith",
+        author: "LearnToCode",
         problemStatement: `Given a triangle array, return the minimum path sum from top to bottom. For each step, you may move to an adjacent number of the row below. More formally, if you are on index i on the current row, you may move to either index i or index i + 1 on the next row.`,
         topics: ["Array", "Dynamic Programming"],
         difficulty: "medium",

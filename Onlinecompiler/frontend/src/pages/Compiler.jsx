@@ -9,11 +9,11 @@ import axios from "axios";
 import { BACKEND_URL } from "../../config";
 
 const LANGUAGES = [
-    { label: "C++", value: "cpp", mode: cpp, defaultCode: `#include <iostream>\nusing namespace std;\nint main() {\n    cout << "Hello, ByteSmith!" << endl;\n    return 0;\n}` },
-    { label: "C", value: "c", mode: cpp, defaultCode: `#include <stdio.h>\nint main() {\n    printf(\"Hello, ByteSmith!\\n\");\n    return 0;\n}` },
-    { label: "Python", value: "python", mode: python, defaultCode: `print("Hello, ByteSmith!")` },
-    { label: "Java", value: "java", mode: java, defaultCode: `public class Main {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, ByteSmith!\");\n    }\n}` },
-    { label: "JavaScript", value: "js", mode: javascript, defaultCode: `console.log("Hello, ByteSmith!");` },
+    { label: "C++", value: "cpp", mode: cpp, defaultCode: `#include <iostream>\nusing namespace std;\nint main() {\n    cout << "Hello, LearnToCode!" << endl;\n    return 0;\n}` },
+    { label: "C", value: "c", mode: cpp, defaultCode: `#include <stdio.h>\nint main() {\n    printf(\"Hello, LearnToCode!\\n\");\n    return 0;\n}` },
+    { label: "Python", value: "python", mode: python, defaultCode: `print("Hello, LearnToCode!")` },
+    { label: "Java", value: "java", mode: java, defaultCode: `public class Main {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, LearnToCode!\");\n    }\n}` },
+    { label: "JavaScript", value: "js", mode: javascript, defaultCode: `console.log("Hello, LearnToCode!");` },
 ];
 
 // Use the same host as BACKEND_URL but with ws:// protocol
@@ -320,7 +320,7 @@ Format your response clearly with sections.`,
         <div className="min-h-screen bg-gradient-to-br from-primary-50 to-secondary-50 py-12">
             <div className="max-w-4xl mx-auto px-4">
                 <div className="text-center mb-10">
-                    <h1 className="text-4xl md:text-5xl font-bold gradient-text mb-2">ByteSmith Playground</h1>
+                    <h1 className="text-4xl md:text-5xl font-bold gradient-text mb-2">LearnToCode Playground</h1>
                     <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
                         Write, run, and debug code in multiple languages. Experience the power of instant feedback and AI-powered explanations.
                     </p>

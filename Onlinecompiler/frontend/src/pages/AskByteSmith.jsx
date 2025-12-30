@@ -1,12 +1,12 @@
 import React, { useState, useRef, useEffect } from "react";
 import axios from "axios";
 
-const AskByteSmith = () => {
+const AskLearnToCode = () => {
     const [messages, setMessages] = useState([
         {
             id: 1,
             type: 'ai',
-            content: "Hi! I'm ByteSmith AI. I can help you with coding problems, explain algorithms, debug code, generate test cases, and provide learning recommendations. What would you like to know?",
+            content: "Hi! I'm LearnToCode AI. I can help you with coding problems, explain algorithms, debug code, generate test cases, and provide learning recommendations. What would you like to know?",
             timestamp: new Date()
         }
     ]);
@@ -143,7 +143,7 @@ const AskByteSmith = () => {
             {
                 id: 1,
                 type: 'ai',
-                content: "Hi! I'm ByteSmith AI. I can help you with coding problems, explain algorithms, debug code, generate test cases, and provide learning recommendations. What would you like to know?",
+                content: "Hi! I'm LearnToCode AI. I can help you with coding problems, explain algorithms, debug code, generate test cases, and provide learning recommendations. What would you like to know?",
                 timestamp: new Date()
             }
         ]);
@@ -153,7 +153,7 @@ const AskByteSmith = () => {
         <div className="min-h-screen bg-gradient-to-br from-secondary-50 to-primary-50 py-12">
             <div className="max-w-4xl mx-auto px-4">
                 <div className="text-center mb-10">
-                    <h1 className="text-4xl md:text-5xl font-bold gradient-text mb-2">Ask ByteSmith</h1>
+                    <h1 className="text-4xl md:text-5xl font-bold gradient-text mb-2">Ask LearnToCode</h1>
                     <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
                         Stuck on a problem? Get instant, AI-powered help and explanations.
                     </p>
@@ -203,7 +203,7 @@ const AskByteSmith = () => {
                                 <div className="bg-gray-100 text-neutral-800 px-4 py-2 rounded-lg">
                                     <div className="flex items-center space-x-2">
                                         <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-primary-600"></div>
-                                        <span>ByteSmith is thinking...</span>
+                                        <span>LearnToCode is thinking...</span>
                                     </div>
                                 </div>
                             </div>
@@ -249,4 +249,4 @@ const AskByteSmith = () => {
     );
 };
 
-export default AskByteSmith;
+export default AskLearnToCode;

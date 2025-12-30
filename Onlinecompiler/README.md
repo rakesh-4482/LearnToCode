@@ -44,7 +44,7 @@ LearnToCode transforms the traditional learning model with **AI-driven features*
 
 ---
 
-## Why ByteSmith?
+## Why LearnToCode?
 
 This isn't about just solving problems.  
 It's about:
@@ -70,7 +70,7 @@ We are building the **future of coding education** – one where **AI and human 
 
 ## Design Philosophy
 
-ByteSmith features a **modern, clean, and intuitive design** that prioritizes:
+LearnToCode features a **modern, clean, and intuitive design** that prioritizes:
 
 - **Accessibility**: Easy to use for all skill levels
 - **Performance**: Fast and responsive interface

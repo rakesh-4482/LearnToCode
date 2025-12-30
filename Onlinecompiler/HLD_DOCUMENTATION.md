@@ -1,4 +1,4 @@
-# ByteSmith - High-Level Design (HLD) Document
+# LearnToCode - High-Level Design (HLD) Document
 
 ## Table of Contents
 1. [System Overview](#1-system-overview)
@@ -21,7 +21,7 @@
 
 ## 1. System Overview
 
-ByteSmith is an intelligent coding learning platform that provides an interactive environment for learning algorithms and data structures. It features a web-based IDE, real-time code execution, and AI-powered assistance.
+LearnToCode is an intelligent coding learning platform that provides an interactive environment for learning algorithms and data structures. It features a web-based IDE, real-time code execution, and AI-powered assistance.
 
 ## 2. Architecture
 

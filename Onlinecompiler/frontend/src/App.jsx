@@ -39,7 +39,7 @@ import CreateDoubt from "./pages/doubts/CreateDoubt";
 import DoubtDetail from "./pages/doubts/DoubtDetail";
 import EditDoubt from "./pages/doubts/EditDoubt";
 import Compiler from "./pages/Compiler";
-import AskByteSmith from "./pages/AskByteSmith";
+import AskLearnToCode from "./pages/AskLearnToCode";
 
 // Protected Route Component
 const ProtectedRoute = ({ children, requireAuth = true }) => {
@@ -107,7 +107,7 @@ function App() {
           <Route path="blogs/:id" element={<BlogDetail />} />
           <Route path="leaderboard" element={<Leaderboard />} />
           <Route path="compiler" element={<Compiler />} />
-          <Route path="ask" element={<AskByteSmith />} />
+          <Route path="ask" element={<AskLearnToCode />} />
           
           {/* Protected Routes */}
           <Route element={<ProtectedRoute />}>

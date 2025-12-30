@@ -114,7 +114,7 @@ const Navbar = () => {
             <div className="bg-white dark:bg-neutral-900 border-b border-neutral-200 dark:border-neutral-800 shadow-soft">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center h-14">
                     <Link to="/" className="flex items-center space-x-2 hover:opacity-80 transition-opacity">
-                        <img src={bytesmithLogo} alt="ByteSmith Logo" className="h-8 w-auto" />
+                        <img src={bytesmithLogo} alt="LearnToCode Logo" className="h-8 w-auto" />
                     </Link>
                     <div className="flex items-center space-x-2">
                         <button

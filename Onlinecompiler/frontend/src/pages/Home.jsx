@@ -58,7 +58,7 @@ const Home = () => {
     {
       name: "Vatsal Singh",
       role: "Software Engineer",
-      content: "ByteSmith transformed my coding practice. The AI hints are incredibly helpful, and the community is amazing!",
+      content: "LearnToCode transformed my coding practice. The AI hints are incredibly helpful, and the community is amazing!",
       rating: 5
     },
     {
@@ -117,7 +117,7 @@ const Home = () => {
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
               Master Coding with
               <span className="block text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-orange-400">
-                ByteSmith
+                LearnToCode
               </span>
             </h1>
             <p className="text-xl md:text-2xl text-indigo-100 mb-8 max-w-4xl mx-auto leading-relaxed">
@@ -172,7 +172,7 @@ const Home = () => {
               Everything You Need to Excel
             </h2>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto">
-              ByteSmith provides a comprehensive learning environment with cutting-edge tools 
+              LearnToCode provides a comprehensive learning environment with cutting-edge tools 
               and features designed to make you a better programmer.
             </p>
           </div>
@@ -196,7 +196,7 @@ const Home = () => {
               Your Learning Journey
             </h2>
             <p className="text-xl text-slate-600">
-              Simple steps to master programming with ByteSmith
+              Simple steps to master programming with LearnToCode
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -239,7 +239,7 @@ const Home = () => {
               Loved by Developers
             </h2>
             <p className="text-xl text-slate-600">
-              See what our community has to say about ByteSmith
+              See what our community has to say about LearnToCode
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -271,7 +271,7 @@ const Home = () => {
             Ready to Level Up Your Coding Skills?
           </h2>
           <p className="text-xl text-indigo-100 mb-8 max-w-2xl mx-auto">
-            Join thousands of developers who are already mastering programming with ByteSmith. 
+            Join thousands of developers who are already mastering programming with LearnToCode. 
             Start your journey today and become the coder you've always wanted to be.
           </p>
           <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-6">

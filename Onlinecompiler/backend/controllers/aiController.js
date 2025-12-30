@@ -1,4 +1,4 @@
-// AI Controller - Handles AI-powered features for ByteSmith
+// AI Controller - Handles AI-powered features for LearnToCode
 import aiService from '../services/aiService.js';
 import { Question } from '../models/questionModel.js';
 import { User } from '../models/userModel.js';

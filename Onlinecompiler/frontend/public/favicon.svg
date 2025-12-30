@@ -1,6 +1,6 @@
 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
   <circle cx="16" cy="16" r="15" fill="url(#gradient1)" stroke="url(#gradient2)" stroke-width="2"/>
-  <!-- Stylized BS initials for ByteSmith -->
+  <!-- Stylized BS initials for LearnToCode -->
   <text x="8" y="22" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="bold" fill="white" letter-spacing="-2">BS</text>
   <defs>
     <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
